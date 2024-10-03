@@ -1,3 +1,0 @@
-###### AUTO-GENERATED Requirements file for: py-gradle-template ######
-
-hspylib>=1.12.46
