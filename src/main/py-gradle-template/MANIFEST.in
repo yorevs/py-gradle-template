@@ -1,2 +1,2 @@
-include askai/welcome.txt
-include askai/.version
+include py-gradle-template/welcome.txt
+include py-gradle-template/.version

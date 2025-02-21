@@ -1,6 +1,6 @@
 # Contributing with HomeSetup
 
-Thank you for your interest using AskAI.
+Thank you for your interest using py-gradle-template.
 
 You are welcome to contribute with the project by following the guidelines below:
 
